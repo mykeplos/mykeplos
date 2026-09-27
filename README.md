@@ -10,7 +10,7 @@ IT management platform that brings tickets, inventory, security and sites into o
 `Tickets` `Inventory` `Security Center` `Atlas` — *UI redesign in progress*
 
 ### 🧠 Psico App
-Management platform in development.
+Study companion app for psychology students: courses, quizzes, spaced-repetition flashcards, notes, grades, schedule and wellbeing tracking. Web prototype in daily use; Flutter version in progress.
 
 ### 🛠️ Stack
 <img src="https://skillicons.dev/icons?i=ts,react,nodejs,express,postgres,git,vscode" />
