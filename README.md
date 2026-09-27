@@ -13,7 +13,7 @@ IT management platform that brings tickets, inventory, security and sites into o
 Management platform in development.
 
 ### 🛠️ Stack
-<img src="https://skillicons.dev/icons?i=ts,react,nodejs,express,postgres,docker,git" />
+<img src="https://skillicons.dev/icons?i=ts,react,nodejs,express,postgres,git,vscode" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mykeplos&theme=github-dark-blue&hide_border=true" />
 
