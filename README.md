@@ -1,86 +1,20 @@
-<h1 align="center">Hi 👋, I'm Patricio</h1>
-
-<h3 align="center">Software Developer from Chile 🇨🇱</h3>
-
-<p align="center">
-TypeScript • React • Node.js • PostgreSQL • IT Infrastructure
-</p>
+<h2 align="center">Hi, I'm Patricio 👋</h2>
+<p align="center">Software Developer · IT Infrastructure · Chile 🇨🇱</p>
 
 ---
 
-## 👨‍💻 About Me
+I build internal web platforms with **TypeScript, React, Node.js and PostgreSQL**, and I work daily with Microsoft 365, networking and IT operations.
 
-- 💻 Developing web applications with **TypeScript, React and Node.js**
-- 🛡️ Creator and developer of **SENTINEL**
-- 🌐 Building web platforms, APIs and management systems
-- 🧠 Exploring **AI, automation and software architecture**
-- 🌐 Experience with **Microsoft 365, networking and IT infrastructure**
+### 🛡️ SENTINEL
+IT management platform that brings tickets, inventory, security and sites into one place.
+`Tickets` `Inventory` `Security Center` `Atlas` — *UI redesign in progress*
 
----
+### 🧠 Psico App
+Management platform in development.
 
-## 🛡️ SENTINEL
+### 🛠️ Stack
+<img src="https://skillicons.dev/icons?i=ts,react,nodejs,express,postgres,docker,git" />
 
-### My main project
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mykeplos&theme=github-dark-blue&hide_border=true" />
 
-**SENTINEL** is an IT management, monitoring and automation platform designed to centralize technology operations into one ecosystem.
-
-**Main modules:**
-
-- 🎫 Ticket System
-- 💻 Computer Inventory
-- 🛡️ Security Center
-- 🌎 Sentinel Atlas
-- 🤖 Automation & AI
-- 🎨 UI redesign in progress: dark corporate theme, design tokens and animations
-
-`TypeScript` `React` `Node.js` `PostgreSQL` `APIs`
-
----
-
-## 🌐 Web Development
-
-Focused on developing:
-
-- Responsive web applications
-- Administrative dashboards
-- REST APIs
-- Authentication systems
-- Database integrations
-- Business management platforms
-- Process automation
-
----
-
-## 🧠 Psico App
-
-### 🚧 In Development
-
-A management platform currently under development, focused on application architecture, user experience, backend development and database integration.
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,express,postgres,git,github,vscode,docker" />
-</p>
-
----
-
-## 🔥 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mykeplos&theme=github-dark-blue&hide_border=true" />
-</p>
-
----
-
-## 🤝 Connect with me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/patricio-rodriguez-dev">
-<img src="https://img.shields.io/badge/LinkedIn-Patricio%20Rodriguez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patricio-rodriguez-dev)
