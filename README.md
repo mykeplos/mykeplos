@@ -31,6 +31,7 @@ TypeScript • React • Node.js • PostgreSQL • IT Infrastructure
 - 🛡️ Security Center
 - 🌎 Sentinel Atlas
 - 🤖 Automation & AI
+- 🎨 UI redesign in progress: dark corporate theme, design tokens and animations
 
 `TypeScript` `React` `Node.js` `PostgreSQL` `APIs`
 
