@@ -12,7 +12,7 @@ IT management platform that brings tickets, inventory, security and sites into o
 ### 🧠 Psico App · Flutter
 Study companion app for psychology students: courses, quizzes, spaced-repetition flashcards, notes, grades, schedule and wellbeing tracking. Web prototype in daily use; Flutter version in progress.
 
-### 🛠️ Stack
+### 🛠️ Stack.
 <img src="https://skillicons.dev/icons?i=ts,react,nodejs,express,postgres,git,vscode" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mykeplos&theme=github-dark-blue&hide_border=true" />
