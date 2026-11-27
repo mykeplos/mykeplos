@@ -5,14 +5,14 @@
 
 I build internal web platforms with **TypeScript, React, Node.js and PostgreSQL**, and I work daily with Microsoft 365, networking and IT operations.
 
-### 🛡️ SENTINEL CENTER - TS.
+### 🛡️ SENTINEL CENTER.
 IT management platform that brings tickets, inventory, security and sites into one place.
 `Tickets` `Inventory` `Security Center` `Atlas` — *UI redesign in progress*
 
 ### 🧠 Psico App - Flutter.
 Study companion app for psychology students: courses, quizzes, spaced-repetition flashcards, notes, grades, schedule and wellbeing tracking. Web prototype in daily use; Flutter version in progress.
 
-### Cabañas Alto Captren - TS.
+### Cabañas Alto Captren.
 
 ### 🛠️ Stack.
 <img src="https://skillicons.dev/icons?i=ts,react,nodejs,express,postgres,git,vscode" />
